@@ -130,10 +130,10 @@ dmypy.json
 
 
 #Data for the iNaturalist dataset project
-.csv
-.mp3
-.wav
-.m4a
-.3gp
-.x-m4a
-.mpga
+*.csv
+*.mp3
+*.wav
+*.m4a
+*.3gp
+*.x-m4a
+*.mpga
