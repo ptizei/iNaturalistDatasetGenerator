@@ -10,4 +10,6 @@ This repo is part of a larger personal project to upskill in python and machine 
 TODO
 
 - Exploratory analysis on the data I've already downloaded
+    - Number and %age of each filetype
+    - distribution of file sizes in each dataset
 - Scripts to automate initial exploratory analysis on any new set
