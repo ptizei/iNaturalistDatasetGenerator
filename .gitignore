@@ -130,7 +130,7 @@ dmypy.json
 
 
 #Data for the iNaturalist dataset project
-*.csv
+#*.csv ***decided to sync the '.csv's anyway since theyre not too big
 *.mp3
 *.wav
 *.m4a
