@@ -9,7 +9,7 @@ This repo is part of a larger personal project to upskill in python and machine 
 ##
 TODO
 
-- Convert existing notebook-based code into scripts
-- Have scripts automatically find '.csv's in the Data folder and download all sound files for each species into a separate folder
 - Exploratory analysis on the data I've already downloaded
+    - Number and %age of each filetype
+    - distribution of file sizes in each dataset
 - Scripts to automate initial exploratory analysis on any new set
